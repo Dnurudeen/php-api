@@ -16,16 +16,16 @@ This is a lightweight Laravel 12 backend built with an API-first approach. It ex
 ---
 
 ## 📁 Project Structure
-/app
-└── Models/
-└── Event.php # Event model for the events table
+/app <br>
+└── Models/ <br>
+└── Event.php # Event model for the events table <br><br>
 
-/routes
-└── api.php # API-only routes
+/routes <br>
+└── api.php # API-only routes <br><br>
 
-/database
-└── migrations/
-└── 202x_xx_xx_create_events_table.php
+/database <br>
+└── migrations/ <br>
+└── 202x_xx_xx_create_events_table.php <br><br>
 
-/.env # Environment configuration (DB, app keys, etc.)
+/.env # Environment configuration (DB, app keys, etc.)<br>
 composer.json # PHP dependencies
